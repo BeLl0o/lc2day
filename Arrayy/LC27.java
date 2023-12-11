@@ -1,3 +1,4 @@
+package Arrayy;
 import java.util.Scanner;
 public class LC27 {
     public int remove(int[] nums, int val){
