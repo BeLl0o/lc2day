@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class LC{
+public class LC704{
     //704.Binaray Search
     public int search(int[] nums, int target){
         
@@ -30,7 +30,7 @@ public class LC{
         for(int i = 0; i < split.length; i++){
             nums[i] = Integer.parseInt(split[i]);
         }
-        LC test = new LC();
+        LC704 test = new LC704();
         int res = test.search(nums, target);
         System.out.println(res);
         

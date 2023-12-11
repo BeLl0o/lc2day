@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Helloworld",
+            "request": "launch",
+            "mainClass": "Helloworld",
+            "projectName": "lc2day_7713eb6d"
+        },
+        {
+            "type": "java",
+            "name": "LC209",
+            "request": "launch",
+            "mainClass": "LC209",
+            "projectName": "lc2day_7713eb6d"
+        },
+        {
+            "type": "java",
+            "name": "LC27",
+            "request": "launch",
+            "mainClass": "LC27",
+            "projectName": "lc2day_7713eb6d"
+        },
+        {
+            "type": "java",
+            "name": "LC704",
+            "request": "launch",
+            "mainClass": "LC704",
+            "projectName": "lc2day_7713eb6d"
+        },
+        {
+            "type": "java",
+            "name": "LC977",
+            "request": "launch",
+            "mainClass": "LC977",
+            "projectName": "lc2day_7713eb6d"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "lc2day_7713eb6d"
+        }
+    ]
+}
