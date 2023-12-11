@@ -3,19 +3,17 @@ import java.util.Scanner;
 public class LC167 {
     public int[] twoSum(int[] numbers, int target){
         int l = 0, r = numbers.length - 1;
-        int[] res = new int[2];
         while(l < r){
             if(numbers[l] + numbers[r] > target){
                 r--;
             }else if(numbers[l] + numbers[r] < target){
                 l++;
             }else{
-                res[0] = l + 1;
-                res[1] = r + 1;
-                break;
+                
+               return new int[]{l + 1, r + 1};
             }
         }
-        return res;
+        return new int[]{};
     }
     public static void main(String[] args){
         Scanner in = new Scanner(System.in);
