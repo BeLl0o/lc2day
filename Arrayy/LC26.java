@@ -1,4 +1,3 @@
-package Arrayy;
 import java.util.Scanner;
 public class LC26 {
     public int removeDuplicates(int[] nums){

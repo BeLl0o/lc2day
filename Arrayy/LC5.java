@@ -1,4 +1,4 @@
-package Arrayy;
+
 import java.util.Scanner;
 public class LC5 {
     public String find(String s, int l, int r){

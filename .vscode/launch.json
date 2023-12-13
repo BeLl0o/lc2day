@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LC206",
+            "request": "launch",
+            "mainClass": "LinkedList.LC206",
+            "projectName": "lc2day_7713eb6d"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"

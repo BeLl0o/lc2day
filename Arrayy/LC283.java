@@ -1,4 +1,3 @@
-package Arrayy;
 import java.util.Scanner;
 public class LC283 {
     public void removeZero(int[] nums){
@@ -15,6 +14,6 @@ public class LC283 {
     }
     public static void main(String[] args){
         Scanner in = new Scanner(System.in);
-
+        return;
     }
 }

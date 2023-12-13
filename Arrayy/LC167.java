@@ -1,4 +1,4 @@
-package Arrayy;
+
 import java.util.Scanner;
 public class LC167 {
     public int[] twoSum(int[] numbers, int target){
